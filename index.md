@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Shadab Nazmi
 
-You can use the [editor on GitHub](https://github.com/shadabnazmi/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a data journalist with BBC South Asia Visual Journalism team(https://github.com/shadabnazmi/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
